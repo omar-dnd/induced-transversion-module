@@ -24,10 +24,9 @@
       }
     ]
   },
-  "url": "https://github.com/Omar-19/induced-transversion",
-  "manifest": "https://raw.githubusercontent.com/Omar-19/induced-transversion/main/module.json",
-  "download": "https://github.com/Omar-19/induced-transversion/archive/refs/heads/main.zip",
-  "background": "worlds/inducirovannaya-transversiya/maps/%D0%9B%D0%BE%D0%B1%D0%B1%D0%B8.jpg",
+  "url": "https://github.com/Omar-19/induced-transversion-module",
+  "manifest": "https://raw.githubusercontent.com/Omar-19/induced-transversion-module/main/module.json",
+  "download": "https://github.com/Omar-19/induced-transversion-module/archive/refs/heads/main.zip",
   "systemVersion": "2.0.3",
   "coreVersion": "10.290",
   "compatibility": {
