@@ -1,0 +1,49 @@
+{
+  "title": "Индуцированная трансверсия",
+  "id": "inducirovannaya-transversiya",
+  "system": "dnd5e",
+  "description": "<p><span style=\"font-family:Lato, Lato, LatoExtended, sans-serif\">В этом приключении от </span><span style=\"font-family:Lato, sans-serif\"><strong>Long Story Short</strong></span><span style=\"font-family:Lato, Lato, LatoExtended, sans-serif\"> для D&amp;D 5e героям предстоит разгадать тайну странного свечения маяка, попутно приобретая различные мутации и превращаясь в месиво из органов и отростков, которому придётся выполнить свою цель, заплатив ужасную цену.</span></p><h2>Поддержать создателя мира</h2><p>https://boosty.to/omar0275</p><h2>Зависимости</h2><p><strong>Внимание!</strong> Для использования данного приключения необходимо установить модуль laaru-dnd5-hw <a href=\"https://mtigra.foundryserver.com/%22https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295/%22\">https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295</a> (доступен по подписке на бусти). Данный модуль будет полезен не только для этого приключения, но и для любого другого приключения, так как содержит все необходимые классы, заклинания, чудовищ и много другое.</p>",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Omar19",
+      "url": "https://boosty.to/omar0275",
+      "email": "lesya.marinosyan@gmail.com",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "laaru-dnd5-hw",
+        "type": "module",
+        "manifest": "https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295",
+        "compatibility": {
+          "verified": "3.4.0"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/Omar-19/induced-transversion",
+  "manifest": "https://raw.githubusercontent.com/Omar-19/induced-transversion/main/module.json",
+  "download": "https://github.com/Omar-19/induced-transversion/archive/refs/heads/main.zip",
+  "background": "worlds/inducirovannaya-transversiya/maps/%D0%9B%D0%BE%D0%B1%D0%B1%D0%B8.jpg",
+  "systemVersion": "2.0.3",
+  "coreVersion": "10.290",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "label": "Индуцированная Трансверсия",
+      "type": "Adventure",
+      "name": "inducirovannaya-transversiya",
+      "path": "packs/inducirovannaya-transversiya.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {},
+      "package": "world"
+    }
+  ]
+}
