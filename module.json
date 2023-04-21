@@ -3,7 +3,7 @@
   "id": "inducirovannaya-transversiya",
   "system": "dnd5e",
   "description": "<p><span style=\"font-family:Lato, Lato, LatoExtended, sans-serif\">В этом приключении от </span><span style=\"font-family:Lato, sans-serif\"><strong>Long Story Short</strong></span><span style=\"font-family:Lato, Lato, LatoExtended, sans-serif\"> для D&amp;D 5e героям предстоит разгадать тайну странного свечения маяка, попутно приобретая различные мутации и превращаясь в месиво из органов и отростков, которому придётся выполнить свою цель, заплатив ужасную цену.</span></p><p>Для использования данного приключения необходимо установить модуль laaru-dnd5-hw <a href=\"https://mtigra.foundryserver.com/%22https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295/%22\">https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295</a> (доступен по подписке на бусти). Данный модуль будет полезен не только для этого приключения, но и для любого другого приключения, так как содержит все необходимые классы, заклинания, чудовищ и многое другое.</p>",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "authors": [
     {
       "name": "Omar19",
@@ -25,8 +25,8 @@
     ]
   },
   "url": "https://boosty.to/omar0275/posts/3c961d9f-ab8a-49e1-b62c-ea43410c3814?share=post_link",
-  "manifest": "https://raw.githubusercontent.com/Omar-19/induced-transversion-module/main/module.json",
-  "download": "https://github.com/Omar-19/induced-transversion-module/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/omar-dnd/induced-transversion-module/main/module.json",
+  "download": "https://github.com/omar-dnd/induced-transversion-module/archive/refs/heads/main.zip",
   "systemVersion": "2.0.3",
   "coreVersion": "10.290",
   "compatibility": {
